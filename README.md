@@ -1,5 +1,5 @@
 ### Hay there... ✨😄✨
-Welcome to my GitHub profile! 😁 My name is Muhammad Sobri Maulana and I am a medical doctor from Faculty of Medicine Universitas Indonesia (FKUI). I really love with programming stuffs, especially on security. Currently also have several on going projects on frontend and backend development. Interested in providing technological solutions in medical problems. In the future, I want to be the best surgery in Indonesia. If you have several questions or want to make a collaboration, let me know it. 😁💬
+Welcome to my GitHub profile! 😁 My name is Muhammad Sobri Maulana and I am a medical doctor from Faculty of Medicine Universitas Indonesia (FKUI). I really love with programming stuffs, especially on security. Currently also have several on going projects on frontend and backend development. Interested in providing technological solutions in medical problems. In the future, I want to be the best surgeon in Indonesia. If you have several questions or want to make a collaboration, let me know it. 😁💬
 
 ### Languages
 ![Kotlin](https://raw.githubusercontent.com/sobri3195/sobri3195/master/icons/kotlin.png)
