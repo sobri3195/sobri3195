@@ -3,7 +3,6 @@ Hay there... ✨😄✨<br>Welcome to my GitHub profile! 😁 My name is Muhamma
 
 ---
 ## 🌟 Pegasus Highlights (Top 10)
-> 10 “trophy-style” highlights yang bisa jadi identitas profil kamu ✨
 
 1. 🛡️ Security-minded developer (always thinking about threat models & safer code)
 2. 🧠 MedTech problem solver (bridging clinical needs into practical software)
