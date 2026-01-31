@@ -1,6 +1,22 @@
 # 💫 About Me:
 Hay there... ✨😄✨<br>Welcome to my GitHub profile! 😁 My name is Muhammad Sobri Maulana and I am a Medical Doctor from Faculty of Medicine Universitas Indonesia (FKUI). I really love with programming stuffs, especially on security. Currently also have several on going projects on frontend and backend development. Interested in providing technological solutions in medical problems. In the future, I want to be the best Surgeon in Indonesia. If you have several questions or want to make a collaboration, let me know it. 😁💬<br><br>Just call me Pegasus
 
+---
+## 🌟 Pegasus Highlights (Top 10)
+> 10 “trophy-style” highlights yang bisa jadi identitas profil kamu ✨
+
+1. 🛡️ Security-minded developer (always thinking about threat models & safer code)
+2. 🧠 MedTech problem solver (bridging clinical needs into practical software)
+3. ⚙️ Full-stack builder (frontend + backend projects in progress)
+4. 🔍 Curious researcher (fast learner, loves exploring new stacks & tools)
+5. 🧪 Experiment-driven (iterating prototypes → shipping improvements)
+6. 📦 Repo contributor (consistent contribution habits & collaboration-ready)
+7. 🧰 Polyglot mindset (comfortable switching languages & frameworks)
+8. 🧩 System thinker (designing solutions as workflows, not just features)
+9. 🚀 Continuous growth (always upgrading skillset, one commit at a time)
+10. 🧑‍⚕️ Surgeon-in-the-making (long-term mission: top surgeon in Indonesia)
+
+---
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/muhsobrimaulana.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/muhammamaulana71) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/pegasushacker) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad_Sobri_maulana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://muhammad_sobri_maulana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dr-muhammad-sobri-maulana-001a8a148/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@muhammadsobrimaulana31) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://id.pinterest.com/muhammadsobrim/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://id.quora.com/profile/Muhammad-Sobri-Maulana-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/BellStriking3648/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/15157554/muhammad-sobri-maulana) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@blogdoktersobri_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/www.twitch.tv/muhsoobrimaulana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BlogDokterSobri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@muhammadsobrimaulana6013) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Muhammad-Sobri-Maulana) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@https://mastodon.social/@muhsobrimaulana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsobrimaulana31@gmail.com) 
