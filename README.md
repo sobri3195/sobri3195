@@ -268,9 +268,14 @@ Hay there... ✨😄✨<br>Welcome to my GitHub profile! 😁 My name is Muhamma
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sobri3195&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sobri3195&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sobri3195&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sobri3195&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobri3195&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobri3195&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sobri3195&theme=default)
