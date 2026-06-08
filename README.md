@@ -17,6 +17,58 @@ Hay there... ✨😄✨<br>Welcome to my GitHub profile! 😁 My name is Muhamma
 
 ---
 
+## 🧰 AI Builder Arsenal
+
+> A curated, launch-ready toolbox for building ideas fast — from AI agents and MVP builders to deployment, analytics, automation, and support.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤖 AI Coding Agents</h3>
+      <p><code>Claude Code</code> · <code>OpenAI Codex</code> · <code>Manus Agent</code> · <code>Replit Agent</code> · <code>OpenCode</code></p>
+      <h3>⚡ No-Code / Fast MVP Builders</h3>
+      <p><code>Lovable</code> · <code>Bolt</code> · <code>v0</code> · <code>Base44</code> · <code>Emergent</code></p>
+      <h3>🧠 AI Models For Building</h3>
+      <p><code>Claude Opus</code> · <code>OpenAI GPT</code> · <code>Gemini</code> · <code>DeepSeek</code> · <code>Kimi K2.6</code></p>
+      <h3>🎨 Frontend Stack</h3>
+      <p><code>Next.js</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>Shadcn UI</code> · <code>Framer Motion</code></p>
+      <h3>🏗️ Backend Stack</h3>
+      <p><code>Supabase</code> · <code>Firebase</code> · <code>Neon</code> · <code>Prisma</code> · <code>Convex</code></p>
+      <h3>🔐 Authentication</h3>
+      <p><code>Clerk</code> · <code>Supabase Auth</code> · <code>Auth.js</code> · <code>Firebase Auth</code> · <code>WorkOS</code></p>
+      <h3>🗄️ Database & Storage</h3>
+      <p><code>PostgreSQL</code> · <code>Supabase Storage</code> · <code>Cloudflare R2</code> · <code>Backblaze B2</code> · <code>UploadThing</code></p>
+      <h3>💳 Payments & Monetization</h3>
+      <p><code>Stripe</code> · <code>Lemon Squeezy</code> · <code>Paddle</code> · <code>Polar</code> · <code>PayPal</code></p>
+      <h3>🚀 Hosting & Deployment</h3>
+      <p><code>Vercel</code> · <code>Cloudflare Pages</code> · <code>Railway</code> · <code>Render</code> · <code>Digital Ocean</code></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔌 APIs & AI Infrastructure</h3>
+      <p><code>OpenRouter</code> · <code>OpenAI API</code> · <code>Anthropic API</code> · <code>Replicate</code> · <code>Fal</code></p>
+      <h3>🔁 Automation & Background Jobs</h3>
+      <p><code>Inngest</code> · <code>Trigger.dev</code> · <code>n8n</code> · <code>Make</code> · <code>Zapier</code></p>
+      <h3>📬 Email & Notifications</h3>
+      <p><code>Resend</code> · <code>Loops</code> · <code>Brevo</code> · <code>MailerLite</code> · <code>OneSignal</code></p>
+      <h3>📈 Analytics & Tracking</h3>
+      <p><code>PostHog</code> · <code>Google Analytics</code> · <code>Mixpanel</code> · <code>Plausible</code> · <code>Hotjar</code></p>
+      <h3>🧪 Error Tracking & Testing</h3>
+      <p><code>Sentry</code> · <code>Playwright</code> · <code>Vitest</code> · <code>Cypress</code> · <code>Better Stack</code></p>
+      <h3>🧭 Design & Product Planning</h3>
+      <p><code>Figma</code> · <code>Notion</code> · <code>FigJam</code> · <code>Miro</code> · <code>Framer</code></p>
+      <h3>📚 Documentation & Knowledge</h3>
+      <p><code>Notion</code> · <code>NotebookLM</code> · <code>Perplexity</code> · <code>GitHub Docs</code> · <code>YouTube Tutorials</code></p>
+      <h3>📣 Launch & Distribution</h3>
+      <p><code>Product Hunt</code> · <code>MarketingBlocks AI</code> · <code>Instantly</code> · <code>Reddit</code> · <code>Apollo</code></p>
+      <h3>💬 Support & Feedback</h3>
+      <p><code>Intercom</code> · <code>Slack</code> · <code>Crisp</code> · <code>Tally</code> · <code>Tawk</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF)](https://bsky.app/profile/muhsobrimaulana.bsky.social)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/muhammamaulana71)
@@ -214,8 +266,6 @@ Hay there... ✨😄✨<br>Welcome to my GitHub profile! 😁 My name is Muhamma
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sobri3195&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
